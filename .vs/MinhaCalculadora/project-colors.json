@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfcbdce3-f0e6-4e26-8a0e-ccecd4c80204": {
+      "ProjectGuid": "dfcbdce3-f0e6-4e26-8a0e-ccecd4c80204",
+      "DisplayName": "MinhaCalculadora",
+      "ColorIndex": 0
+    },
+    "8cf5e94c-a392-45f7-9c4a-f8008a0070a8": {
+      "ProjectGuid": "8cf5e94c-a392-45f7-9c4a-f8008a0070a8",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.exe.config
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.exe
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.pdb
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.AssemblyReference.cache
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.frm_principal.resources
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.Properties.Resources.resources
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.GenerateResource.cache
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.exe
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.pdb
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.frm_historico.resources
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.exe.manifest
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\bin\Debug\MinhaCalculadora.application
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.exe.manifest
+C:\Users\Del\source\repos\MinhaCalculadora\MinhaCalculadora\obj\Debug\MinhaCalculadora.application
